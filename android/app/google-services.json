@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062784928154",
+    "project_id": "trumsy-60e73",
+    "storage_bucket": "trumsy-60e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062784928154:android:817d981dcd1b56fb88d223",
+        "android_client_info": {
+          "package_name": "com.example.trumsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062784928154-hh8t3mf3sr46p487110l979hncpbni21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY23FPaZMevvBIhZK8768eQYuS8ZTneBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062784928154-hh8t3mf3sr46p487110l979hncpbni21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
